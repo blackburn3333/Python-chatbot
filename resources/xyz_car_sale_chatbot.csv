@@ -1,0 +1,17 @@
+hi:hellow:hello:whats up,hi:hellow:hello:hello how can I help you?:hi welcome to XYZ car sale:hi there!,greeting
+bye:see yaa:later,see you again:bye:good byee:bye have a nice day,bye
+exit:close,system exiting,exit
+time:time now:is time now:current time,current time is,get_time
+date:date now:is date now:current date,current date is,get_date
+contact details:contact,our contact details are,contact
+brands:car brand list:what about brands,This is our avilable list of car brands,show_car_brands
+my name is:I am:im:I'm,hellow:hi:how can I help you:yes:hi I am your assistant,get_user_name
+your name:who are you,"hi, my name is XYZ car sales person assistant",show_my_name
+list of cars:car list:cars,This is our cars,show_cars
+toyota:toyota cars,toyota,search_by_brand
+lamborghini:lamborghini cars,lamborghini,search_by_brand
+maruti:maruti cars,maruti,search_by_brand
+honda:honda cars,honda,search_by_brand
+cars by speed:speed,speed,order_by_speed
+price grater than: price grater:grater:minimum:minimum price:min:min price,grater,car_price
+price lower than:price lower:lower:maximum:maximum price:max:max price:lower: price is lower:price bellow,lower,car_price
